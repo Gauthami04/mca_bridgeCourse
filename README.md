@@ -1,2 +1,2 @@
 # mca_bridgeCourse
-GitHub Usage Sesion 
+Random coding experiments and practice programs from my MCA journey.
